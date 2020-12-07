@@ -25,6 +25,7 @@ The output is in the form of a CSV file that can be directly put into OnSSET.
 This repository contains:
 * An environment .yml file needed for generating a fully functioning python 3.7 environment necessary for the clustering algorithm.
 * The clustering code and related functions. These files also have instructions for how to run the code
+* An example case for Benin containing inputs and outputs
 
 ## Installing and running the extraction notebook
 
