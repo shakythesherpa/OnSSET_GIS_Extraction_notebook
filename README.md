@@ -39,7 +39,7 @@ After installing Anaconda you can download the repository directly or clone it t
 
 ```
 > conda install git
-> git clone https://github.com/babakkhavari/OnSSET-GIS-Extraction.git
+> git clone https://github.com/babakkhavari/OnSSET_GIS_Extraction_notebook.git
 ```
 Once installed, open anaconda prompt and move to your local "OnSSET-GIS-Extraction" directory using:
 ```
