@@ -64,5 +64,5 @@ With the environment activated, you can now move to the extraction directory and
 ..\OnSSET-GIS-Extraction> jupyter notebook 
 ```
 ## Changelog
-**X-December-2020**: Original code base published
+**21-Februray-2021**: Original code base published
 
